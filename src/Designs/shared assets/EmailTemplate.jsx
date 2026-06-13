@@ -19,6 +19,8 @@ const EmailTemplate = () => {
 export default EmailTemplate
 
 
+// THIS FILE IS IN-PORGRESS (completion awaited in aqoUI v1.0.1)
+
 
 export function EmailTemplateHeader1(){
     return (

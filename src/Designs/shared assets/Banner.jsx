@@ -25,6 +25,10 @@ const Banner = () => {
 export default Banner
 
 
+// THIS FILE IS IN-PORGRESS (completion awaited in aqoUI v1.0.1)
+
+
+
 export function Banner1(){
     return (
         <div className='w-100 md:w-full bg-[#ecebeb] flex md:px-1.5 md:py-0.5 items-center-safe gap-4 flex-wrap md:flex-none p-3 rounded-xl'>

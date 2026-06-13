@@ -125,45 +125,5 @@ export function ToggleWithText({
 }
 
 
-// export function Toggle1({extra, children, childrenStle ={}}){
-//     return(
-//             <div className={`bg-black/20 w-13 h-7 rounded-xl p-1 ${extra}`}>
-//                {children || <div className={`bg-white w-5 h-5 rounded-full ${childrenStle.toggle}`}></div>}
-//             </div>
-//     )
-// }
-
-// export function Toggle2({extra, children, childrenStle ={}}){
-//     return(
-//             <div className={` w-13 h-7 rounded-xl p-1 ring-2 ring-purple-500 ring-offset-3 flex justify-end-safe bg-purple-500 ${extra}`}>
-//                {children || <div className={`bg-white w-5 h-5 rounded-full ${childrenStle.toggle}`}></div>}
-//             </div>
-//     )
-// }
-
-// export function Toggle3({extra, children, childrenStle ={}}){
-//     return(
-//             <div className={`bg-black/20 w-13 h-7 rounded-xl p-1 flex justify-end-safe ${extra}`}>
-//                {children || <div className={`bg-white/30 w-5 h-5 rounded-full ${childrenStle.toggle}`}></div>}
-//             </div>
-//     )
-// }
-
-
-
-
-// export function ToggleWithText({extra, textValue1, textValue2, ToggleTag, children, childrenStyle={}}){
-//     return(
-//         <div className={`flex gap-2 ${extra}`}>
-//            { children || <>
-//            {ToggleTag ||  <Toggle1/>}
-//             <div>
-//                 <p className={`${childrenStyle.text1}`}>{textValue1 || 'Remember me'}</p>
-//                 <span className={`${childrenStyle.text2}`}>{textValue2 || 'Save mt login details for next time.'}</span>
-//             </div></>}
-//         </div>
-//     )
-// }
-
 
 
