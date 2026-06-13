@@ -6,4 +6,7 @@ aqoUI v1.0.0
 ## Current Version
 aqoUI v1.0.0
 
-# Read Documentation is still being processed
+# Important Note
+## Read Documentation is still progress
+
+# Find all the components you want in Designs Repo 😃👍
