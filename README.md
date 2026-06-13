@@ -9,4 +9,5 @@ aqoUI v1.0.0
 # Important Note
 ## Read Documentation is still progress
 
-# Find all the components you want in Designs Repo 😃👍
+# Find all the highly customizable and reusable components you want in Designs Repo 😃👍
+[[Designs Here: ](https://example.com)](https://github.com/aqoprojects/aqoUI/tree/main/src/Designs)
